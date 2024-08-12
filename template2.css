@@ -1,0 +1,21 @@
+body,html {
+    height: 100%;
+   
+  }
+
+  samplewebsite.com
+
+.main{
+    margin: 0;
+    padding: 0;
+    background-image: url("https://s3-alpha-sig.figma.com/img/aade/d9b8/31675510854668dfbe8dfa854e9098b8?Expires=1724630400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NknnoLft0uejcGITFlDzYEdrRvt4NK3SorthlaR2uaWDfGPwcxNydkdyRXVUVlUdZJyFXAJ5Pq9lN-rR4NK2Ds5wqridvYXxiOneR~LgijF7OKy3SgdfnuHBFI6Wf8AvNdLMBidJXT72rYahUvdlNsIXsGQO9ErwtETA--iOkc44Ng9bqPr8XpRpcB-k1TY0xiWuYMI0KzxAgV790Shz3kTt7HJIjUlZtZ-T7szbh2N1-bRlmX8oVKVljN~Z9DCFNoq4KsQx3dN1Xao0rqY4dK8qIDV4JPpyvtywVG8qR33jWaKIHsGbhqeBm~wRtS5o~SremtxC32ki-CR47roX~g__");
+
+    background-size: contain;
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+
+}
+
+
